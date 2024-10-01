@@ -1,14 +1,18 @@
-# Fork of the awesome horror game *13th-floor* by Rob Louie
-## Original
+### Fork of the awesome horror game *13th-floor* by Rob Louie
+#### Original
 - https://js13kgames.com/2024/games/13th-floor
 - https://github.com/roblouie/js13k-2024
 
 
-# This fork is for Android
+## This fork is for Android
 
-Run
+On my Android it takes a while to load.  
+You will not have fun if you don't read the instructions below  
+[Run](https://bacionejs.github.io/rob/mobile.html)  
 
-# Instructions
+
+
+#### Instructions
 - on the start screen tap-tap on the screen where you want the center of your *joystick*
 - but take into account that afterwards when the game goes fullscreen, your joystick will move up
 - for example mine moves up 1 inch, so i place it 1 inch lower
@@ -22,7 +26,7 @@ Run
 - if your hands are shaking because the monster is on your tail, you will probably choke and get stuck repeatedly opening and closing a door
 - tap-tap opens door. now move into the **doorway**. tap-tap to close behind you. it takes practice.
 
-# Controls
+#### Controls
 - swipe to rotate
 - tap to move/stop
 - tap     upper-right to pickup stuff
