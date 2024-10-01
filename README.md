@@ -29,7 +29,7 @@ Be in landscape mode *before* clicking Run.
 - tap-tap opens door. now move into the **doorway**. tap-tap to close behind you. it takes practice.
 
 #### Controls
-- swipe to rotate
+- joystick to rotate (swipe)
 - tap to move/stop
 - tap     upper-right to pickup stuff
 - tap-tap upper-right for door
