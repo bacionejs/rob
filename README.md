@@ -18,7 +18,7 @@ You will not have fun if you don't read the *instructions below*
 - at this point, the app switches to fullscreen 
 - on my android, the screen is black for a few seconds before the elevator appears.
 - now, you should see yourself walking into the wall of the elevator. it is ok
-- now, tap where you want the center of your *joystick*. but don't click on the heart/health.
+- now, tap where you want the center of your *joystick*. but don't tap on the heart/health.
 - there is no visual indicator of where the joystick is
 - just find a comfortable spot where your right thumb will naturally land
 - you must always start a swipe from that point
