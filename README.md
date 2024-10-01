@@ -7,7 +7,9 @@
 ## This fork is for Android
 
 On my Android it takes a while to load.  
-You will not have fun if you don't read the instructions below  
+You will not have fun if you don't read the *instructions below*  
+Refresh the game the first time or it *won't work*.  
+Be in landscape mode *before* clicking Run.  
 [Run](https://bacionejs.github.io/rob/mobile.html)  
 
 
