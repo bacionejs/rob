@@ -15,8 +15,8 @@ Be in landscape mode *before* clicking Run.
 
 
 #### Instructions
-- on the start screen, tap-tap to start
-- in the elevator, tap-tap where you want the center of your *joystick*
+- on the start screen, tap to start. when the elevator appears you should see yourself walking into the wall
+- now, tap where you want the center of your *joystick*. but don't click on the heart/health.
 - there is no visual indicator of where the joystick is
 - just find a comfortable spot where your right thumb will naturally land
 - you must always start a swipe from that point
