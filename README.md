@@ -27,7 +27,7 @@ You will not have fun if you don't read the *instructions below*
 - it is cumbersome looking at the door numbers, so memorize the layout
 - remember the room you went in, so when you come out, you know where to go next.
 - if your hands are shaking because the monster is on your tail, you will probably choke and get stuck repeatedly opening and closing a door
-- tap-tap opens door. now move into the **doorway**. tap-tap to close behind you. it takes practice.
+- tap-tap opens door. now move into the **doorway**. rotate slightly towards the door hinge until you see *close door*. tap-tap to close behind you. it takes practice.
 
 #### Controls
 - joystick to rotate (swipe)
