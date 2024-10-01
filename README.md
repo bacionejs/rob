@@ -6,16 +6,18 @@
 
 ## This fork is for Android
 
-On my Android it takes a while to load.  
 You will not have fun if you don't read the *instructions below*  
-Refresh the game the first time or it *won't work*.  
-Be in landscape mode *before* clicking Run.  
+  
 [Run](https://bacionejs.github.io/rob/mobile.html)  
 
 
 
 #### Instructions
-- on the start screen, tap anywhere to start. when the elevator appears you should see yourself walking into the wall
+- be in landscape mode.
+- on the start screen, tap anywhere to start.
+- at this point, the app switches to fullscreen 
+- on my android, the screen is black for a few seconds before the elevator appears.
+- now, you should see yourself walking into the wall of the elevator. it is ok
 - now, tap where you want the center of your *joystick*. but don't click on the heart/health.
 - there is no visual indicator of where the joystick is
 - just find a comfortable spot where your right thumb will naturally land
