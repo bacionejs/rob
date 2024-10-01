@@ -15,9 +15,8 @@ Be in landscape mode *before* clicking Run.
 
 
 #### Instructions
-- on the start screen tap-tap on the screen where you want the center of your *joystick*
-- but take into account that afterwards when the game goes fullscreen, your joystick will move up
-- for example mine moves up 1 inch, so i place it 1 inch lower
+- on the start screen, tap-tap to start
+- in the elevator, tap-tap where you want the center of your *joystick*
 - there is no visual indicator of where the joystick is
 - just find a comfortable spot where your right thumb will naturally land
 - you must always start a swipe from that point
