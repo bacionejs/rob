@@ -21,7 +21,7 @@ Be in landscape mode *before* clicking Run.
 - there is no visual indicator of where the joystick is
 - just find a comfortable spot where your right thumb will naturally land
 - you must always start a swipe from that point
-- if you get excited you will be tempted to start wide and do a long swipe to turn and run from the monster. that won't work.
+- if you get excited you will be tempted to start wide and do a long swipe to turn and run from the monster. that won't work. just calmly rotate, then run.
 - **right/left/back** are not supported, so you can't run backwards. you must rotate first.
 - it is cumbersome looking at the door numbers, so memorize the layout
 - remember the room you went in, so when you come out, you know where to go next.
