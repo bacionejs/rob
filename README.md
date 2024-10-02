@@ -32,6 +32,5 @@ You will not have fun if you don't read the *instructions below*
 #### Controls
 - joystick to rotate (swipe)
 - tap to move/stop
-- tap     upper-right to pickup stuff
-- tap-tap upper-right for door
+- tap-tap upper-right to pickup stuff, open door and hide
 - tap-tap upper-left for flashlight 
